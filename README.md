@@ -1,15 +1,15 @@
-# minirt
+## Minirt
 A raytracer written in C using the mlx library for graphics management.
 
 ![Alt demo](minirt_demo.gif)
 
-### Try the project
+## Try the project
 Clone the repository, and run ```make``` in root. You can then run the resulting executable, passing one of the maps as argument or create your own map.
 
 ### A full mathematical explanation for every single step of the process is in progress!
 You can read it [here](https://www.notion.so/miniRT-a-simple-ray-tracer-113381a9a29680d39341c83a9490890e?pvs=4).
 
-### Controls:
+## Controls:
 There are three different variables that can be combined to apply a change to the scene: the shape to be transformed, the type of transformation and the direction of that transformation. The current shape will be highlighted, and the type of transformation will be writen on the terminal. 
 - Cycle through shapes: **S**;
 - Camera: **C**;
