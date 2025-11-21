@@ -17,12 +17,6 @@ There are three different variables that can be combined to apply a change to th
 - Cycle through transformation types: **left/right arrows**;
 - Apply transformation: **up/down arrows**.
 
-### Acknowledgements
-This project was made in collaboration with [Joao Fonseca](https://github.com/Joao613). Thanks for working so hard with me!
+## Acknowledgements
+This project was made in collaboration with [Nuno Sousa](https://github.com/SomeMedtnerGuy/)
 
-Other people who influenced the project:
-- [Jhonas](https://github.com/Jburlama) (who is also making an excellent, less in-depth but faster-paced, documentation of the same project,
-better suited for those who already have some basics of what is going on. Definitely check it out!);
-- [Uatila](https://github.com/Uatilla);
-- [Ana](https://github.com/someoneisanna) (who suggested the book which I ended up using to complete miniRT - [The Ray Tracer Challenge](http://raytracerchallenge.com/));
-- [Ana](https://github.com/aamaral-42) (different Ana).
