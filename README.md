@@ -1,5 +1,5 @@
 # minirt
-A raytracer written in C using the mlx library for graphics management. Built for 42Porto programming school.
+A raytracer written in C using the mlx library for graphics management.
 
 ![Alt demo](minirt_demo.gif)
 
